@@ -1,0 +1,12 @@
+.add-messenger-panel {
+    color: indianred;
+    cursor: pointer;
+    font-weight: 900;
+}
+.add-messenger-panel:hover {
+    color: crimson;
+    background-color: #fff2f5;
+}
+.add-messenger:active {
+    color: deeppink;
+}
